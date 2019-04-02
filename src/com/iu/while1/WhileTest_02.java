@@ -13,7 +13,6 @@ public class WhileTest_02 {
 		while(true) {
 			//1.로그인
 			//2.종료
-			
 			System.out.println("아이디를 입력하세요.");
 			int yId = sc.nextInt();
 			System.out.println("비밀번호를 입력하세요.");
